@@ -1,1 +1,0 @@
-Add go-duration2: parse durations with Chinese units
